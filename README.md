@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hisywm</h1>
-<h3 align="center">A passionate junior frontend developer & junior mobile application developer looking for my first job in IT field</h3>
+<h3 align="center">A passionate junior frontend developer & junior mobile application developer looking for my first job in IT field that can put my skills to good use & also improving my skills in programming in general.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hisywm&label=Profile%20views&color=0e75b6&style=flat" alt="hisywm" /> </p>
 
