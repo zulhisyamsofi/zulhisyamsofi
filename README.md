@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Front-end Web Development (HTML5, CSS3, Flexbox & Javascript)**
 
-- 📫 How to reach me **zulhisyamsofi@gmail.com**
+- 📫 How to reach me **zulhisyamsofi@gmail.com** 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18sh-YdjMuFaWxCmUVm1adQoTRpWPkTAH/view?usp=sharing](https://drive.google.com/file/d/18sh-YdjMuFaWxCmUVm1adQoTRpWPkTAH/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1RDgaTEEE_7tDWjEokacLqBbnhLX5LBiM/view?usp=sharing">**My Resume**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
