@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zulhisyam Sofi</h1>
-<h3 align="center">22 years old fresh graduate student majoring in Computer Science seeking for my first job in the IT Industry that will allow me to put my skills and abilities to good use while also allowing me to be resourceful, innovative, and adaptable.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hisywm&label=Profile%20views&color=0e75b6&style=flat" alt="hisywm" /> </p>
 
-- 🌱 I’m currently learning **Front-end Web Development (HTML5, CSS3, Flexbox & Javascript)**
+- 🌱 I’m a **Front-end Web Developer (Typescript & Angular)**
 
 - 📫 How to reach me **zulhisyamsofi@gmail.com** 
 
