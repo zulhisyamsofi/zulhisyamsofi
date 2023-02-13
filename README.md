@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **zulhisyamsofi@gmail.com** 
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1RDgaTEEE_7tDWjEokacLqBbnhLX5LBiM/view?usp=sharing">**My Resume**
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1RDgaTEEE_7tDWjEokacLqBbnhLX5LBiM/view?usp=sharing">**My Resume (Outdated )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
