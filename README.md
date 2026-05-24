@@ -1,21 +1,100 @@
-<h1 align="center">Hi 👋, I'm Zulhisyam Sofi</h1>
+# Hi, I'm Hisyam Sofi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hisywm&label=Profile%20views&color=0e75b6&style=flat" alt="hisywm" /> </p>
+Software / System Engineer experienced in enterprise web and hybrid mobile application development, modernization, and production support.
 
-- 🌱 I’m a **Front-end Web Developer (Typescript & Angular)**
+Specialized in:
+- Enterprise system enhancement
+- Angular & hybrid mobile applications
+- Legacy system refactoring
+- Production incident debugging
+- CI/CD and deployment workflows
+- Mobile release operations (Android & iOS)
 
-- 📫 How to reach me **zulhisyamsofi@gmail.com** 
+---
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1RDgaTEEE_7tDWjEokacLqBbnhLX5LBiM/view?usp=sharing">**My Resume**(Outdated)
+## Engineering Focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zulhisyamsofi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zulhisyamsofi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10625379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10625379" height="30" width="40" /></a>
-</p>
+I work on production-scale enterprise systems involving:
+- Web and mobile application enhancement
+- Legacy modernization and maintainability improvements
+- Root cause analysis and debugging
+- API integration and backend communication
+- Multi-environment deployment support
+- Hybrid mobile application releases
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Most of my experience revolves around maintaining and modernizing real-world enterprise applications used in production environments.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zulhisyamsofi&show_icons=true&locale=en&layout=compact" alt="hisywm" /></p>
+---
 
+## Tech Stack
+
+### Frontend & Mobile
+- Angular
+- Ionic
+- Capacitor
+- Dojo Toolkit
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+
+### Backend & Integration
+- Java
+- REST APIs
+- SQL / PL-SQL
+
+### DevOps & Tooling
+- Git
+- Jenkins
+- Maven
+- npm
+- Gulp.js
+
+### Mobile Development
+- Android Studio
+- Xcode
+- Google Play Console
+- App Store Connect
+
+---
+
+## Core Engineering Skills
+
+- Production incident investigation
+- Stack trace and log analysis
+- Code refactoring and maintainability
+- Enterprise application support
+- Mobile build and release management
+- CI/CD workflow support
+- Performance troubleshooting
+- Multi-environment deployment handling
+
+---
+
+## Featured Areas
+
+### Enterprise Application Modernization
+Experience maintaining and enhancing legacy enterprise platforms while incrementally modernizing frontend and mobile application architecture.
+
+### Hybrid Mobile Application Support
+Hands-on experience supporting Android and iOS enterprise applications built using Ionic and Capacitor, including debugging, packaging, and release deployment.
+
+### Debugging & Root Cause Analysis
+Strong focus on identifying production issues through log analysis, stack traces, API tracing, and frontend/backend debugging.
+
+---
+
+## Currently Working On
+
+- Angular modernization initiatives
+- Mobile SDK and framework upgrades
+- Enterprise application maintainability improvements
+- Security and authentication flow enhancements
+- CI/CD and deployment optimization
+
+---
+
+## Connect With Me
+
+- GitHub: [github.com/zulhisyamsofi](https://github.com/zulhisyamsofi)
+- LinkedIn: [linkedin.com/in/zulhisyamsofi](https://linkedin.com/in/zulhisyamsofi)
