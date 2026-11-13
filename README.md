@@ -1,26 +1,51 @@
-# Hi, I'm Zulhisyam 👋
+<div align="center">
 
-I build web interfaces with **Angular** and **TypeScript**, turning ideas into practical applications with forms, data management, and clear user workflows.
+# Hey, I'm Hisyam 👋
 
-## About me
+### Software Engineer · Web & Hybrid Mobile
 
-- My public projects explore merchant management and support ticket systems.
-- I've worked with Angular Material, Flex Layout, and Bootstrap to build application interfaces.
-- These projects put form validation, CRUD operations, and browser-based storage into practice.
+Building across the stack. Connecting the pieces. Keeping apps running.
 
-## Technologies I've used
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 
-**Frontend:** Angular · TypeScript · HTML · CSS  
-**UI:** Angular Material · Angular Flex Layout · Bootstrap  
-**Application development:** Angular Forms · Angular Router · RxJS · Web LocalStorage
+[Explore my repositories ↗](https://github.com/zulhisyamsofi?tab=repositories)
 
-## Featured projects
+</div>
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [Merchant App](https://github.com/zulhisyamsofi/angular-merchant-app) | A learning project inspired by GrabFood's web interface, with merchant registration, validated forms, and local data storage. | Angular, Angular Material, Flex Layout |
-| [Support Ticket App](https://github.com/zulhisyamsofi/angular-ticket-app) | A support ticket application with ticket submission, status updates, comments, and progress tracking. | Angular, Angular Material, Web LocalStorage |
+---
 
-## Explore my work
+### A little about me
 
-Browse my [public repositories](https://github.com/zulhisyamsofi?tab=repositories) for source code, project notes, and screenshots.
+I work across web interfaces, Java backends, databases, and hybrid mobile apps. I enjoy tracing tricky bugs across those layers and turning fixes into reliable releases.
+
+- 📱 **Mobile** — Angular, Ionic & Capacitor apps for Android and iOS.
+- ⚙️ **Full stack** — Java services, REST API integration & SQL.
+- 🔍 **Behind the scenes** — Production troubleshooting, platform upgrades & release workflows.
+
+### More tools in my kit
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+
+### Where I started
+
+A couple of earlier Angular projects from my learning journey:
+
+| 🛍️ [Merchant App](https://github.com/zulhisyamsofi/angular-merchant-app) | 🎫 [Support Ticket App](https://github.com/zulhisyamsofi/angular-ticket-app) |
+| :--- | :--- |
+| Merchant registration, validated forms & local storage. | Ticket submission, status updates & progress tracking. |
+
+---
+
+<div align="center">
+<sub>From the interface to the release.</sub>
+</div>
