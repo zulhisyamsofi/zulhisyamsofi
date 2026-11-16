@@ -2,7 +2,7 @@
 
 # Hey, I'm Hisyam 👋
 
-### Software Engineer · Web & Hybrid Mobile
+### Software Engineer · Web & Mobile
 
 Building across the stack. Connecting the pieces. Keeping apps running.
 
@@ -19,14 +19,24 @@ Building across the stack. Connecting the pieces. Keeping apps running.
 
 ### A little about me
 
-I work across web interfaces, Java backends, databases, and hybrid mobile apps. I enjoy tracing tricky bugs across those layers and turning fixes into reliable releases.
+I work across web interfaces, Java backends, databases, and mobile apps. I enjoy tracing tricky bugs across those layers and turning fixes into reliable releases.
 
-- 📱 **Mobile** — Angular, Ionic & Capacitor apps for Android and iOS.
+- 📱 **Mobile** — Angular, Ionic & Capacitor apps for Android and iOS; Flutter & Dart for personal Android projects.
 - ⚙️ **Full stack** — Java services, REST API integration & SQL.
 - 🔍 **Behind the scenes** — Production troubleshooting, platform upgrades & release workflows.
 
+### Recent project
+
+**[Qada Tracker](https://github.com/zulhisyamsofi/qada-tracker)** — A personal Android prayer journal built with Flutter, Riverpod, and Drift/SQLite.
+
+- Record daily prayers, review earlier dates, and track qada replacements. Unrecorded prayers never automatically become missed prayers.
+- Malaysian prayer times, opt-in local reminders, and a home-screen widget for daily recording.
+- Local journal storage, explicit JSON backup/restore, and light/dark appearance.
+
 ### More tools in my kit
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
